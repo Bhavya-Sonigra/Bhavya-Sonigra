@@ -1,4 +1,5 @@
-# 💫 About Me: Bhavya Sonigra
+Hi,I'm Bhavya Sonigra
+# 💫 About Me: 
 🔭 I’m currently working on PERN stack<br>👯 I’m looking to collaborate on Full stack project<br>🤝 I’m looking for help with<br>🌱 I’m currently learning JS<br>💬 Ask me about<br>⚡ Fun fact
 
 
