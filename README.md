@@ -1,7 +1,4 @@
 Hi,I'm Bhavya Sonigra
-# 💫 About Me: 
-🔭 I’m currently working on PERN stack<br>👯 I’m looking to collaborate on Full stack project<br>🤝 I’m looking for help with<br>🌱 I’m currently learning JS<br>💬 Ask me about<br>⚡ Fun fact
-
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Bhavya-Sonigra) [![Quora](https://img.shields.io/badge/Quora-%23B92B27.svg?logo=Quora&logoColor=white)](https://quora.com/profile/Bhavya Sonigra). [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:sonigrabhavya28@gmail.com) 
